@@ -112,3 +112,15 @@ category_archive:
 tag_archive:
   type: liquid
   path: /tags/
+
+# 自定义导航栏
+header:
+  links:
+    - label: "按年分类"
+      url: /posts/
+    - label: "分类"
+      url: /categories/
+    - label: "标签"
+      url: /tags/
+    - label: "关于我"
+      url: /about/
