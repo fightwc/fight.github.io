@@ -58,7 +58,7 @@ plugins:
 
 author:
   name   : "Nick"
-  avatar : "/assets/images/bio-photo.jpg"
+  avatar : "/assets/images/gwen.png"
   bio    : "Just do it."
   links:
     - label: "Website"
